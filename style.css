@@ -1,5 +1,71 @@
+html {
+    color: -internal-root-color;
+}
+
+
 body {
 background-color: white;
+font-family: arial, sans-serif;
 
 }
 
+ul {
+    list-style-type: none;
+    padding:0;
+    margin: 0;
+    }
+
+
+li {
+    display: inline-block;
+
+}
+div {
+
+    display: block;
+}
+#topbarleft {
+    float: left;
+        
+}
+
+#topbarright {
+    float: right;
+}
+
+#main {
+    text-align: center;
+    padding: 100px;
+
+
+}
+
+#footer {
+
+    background-color: navajowhite;
+    bottom: 0;
+    position: fixed;
+    height: 35px;
+    width: 100%;
+    font-size: 14px;
+    line-height: 40px;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    
+}
+
+#leftfooter {
+    
+       
+    float: left;
+
+}
+
+#rightfooter {
+    float: right;
+    margin-right: 30px;
+    
+
+}
+       
+  
