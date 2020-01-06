@@ -46,17 +46,17 @@ button:hover {
  }
 
  
-
-
 ul {
     list-style-type: none;
     padding:0;
-    margin: 0;
+    margin: auto;
+   
     }
 
 
 li {
     display: inline-block;
+    
 
 }
 div {
@@ -69,18 +69,19 @@ div {
     margin-left: 12px;
     margin-right: 12px;
     padding-bottom: 35px;
-    
-    
+        
 }
 
 }
 #topbarleft {
     float: left;
+    
         
 }
 
 #topbarright {
     float: right;
+    display: block;
 }
 
 
