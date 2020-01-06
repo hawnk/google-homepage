@@ -1,3 +1,6 @@
+/* Need to correct nav bars alignment */
+
+
 html {
     color: -internal-root-color;
 }
@@ -34,13 +37,11 @@ button {
     min-width: 54px;
     text-align: center;
     cursor: pointer;
-    
-    
-    
-
+ 
 }
 button:hover {
-    /* need to implement yet */
+    color: black;
+    border: 1px solid grey;
 
  }
 
